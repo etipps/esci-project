@@ -1,2 +1,2 @@
 # esci-project
-Final project for ESCI; This project analyzes of greenhouse gas concentrations in the Lamprey River Hydrologic Observatory
+Final project for ESCI; This project analyzes the infleunce of antecedent precipitation on different layers of the critical zone across spatial scales
