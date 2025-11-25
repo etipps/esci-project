@@ -1,0 +1,1 @@
+SiO2 (mg SiO2/L),NPOC (mg C/L),NO3 (mg N/L),Spec_Cond,Ca (mg Ca/L)
