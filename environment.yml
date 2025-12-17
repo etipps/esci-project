@@ -1,0 +1,11 @@
+name: environment
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - scipy
+  - seaborn
+  - openpyxl
+
+
+
